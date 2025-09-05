@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou o Cauã! 👋
 
-<!--
-**cauagms/cauagms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um entusiasta da programação com foco em aprender e crescer nas áreas envolvendo *Java, **Python*. Estou sempre buscando novos conhecimentos e desafios para me tornar um desenvolvedor versátil e preparado para o mercado.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias e Ferramentas que utilizo
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,postman,py,git,github,vscode />
+  </a>
+</p>
+
+
+---
+
+## 🎯 Meus objetivos
+
+
+- Aprimorar habilidades em programação orientada a objetos e estruturas de dados.  
+- Desenvolver projetos práticos e contribuir para a comunidade open source.   
+- Tornar-me um profissional completo e preparado para o mercado de tecnologia.
+
+---
+
+Se quiser acompanhar meu progresso e projetos, fique à vontade para me seguir!  
+Vamos codar juntos 🚀
+
+---
+
+> “O aprendizado nunca termina — o código está sempre evoluindo.” 💻
