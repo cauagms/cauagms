@@ -8,7 +8,7 @@ Sou um entusiasta da programação com foco em aprender e crescer nas áreas env
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,postman,git,github" />
+    <img src="https://skillicons.dev/icons?i=py,angular,vscode,java,postman,git,github,discord," />
   </a>
 </p>
 
