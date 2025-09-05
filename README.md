@@ -1,6 +1,6 @@
 # Olá, eu sou o Cauã! 👋
 
-Sou um entusiasta da programação com foco em aprender e crescer nas áreas envolvendo *Java, **Python*. Estou sempre buscando novos conhecimentos e desafios para me tornar um desenvolvedor versátil e preparado para o mercado.
+Sou um entusiasta da programação com foco em aprender e crescer nas áreas envolvendo Java, Python. Estou sempre buscando novos conhecimentos e desafios para me tornar um desenvolvedor versátil e preparado para o mercado.
 
 ---
 
