@@ -16,9 +16,7 @@ Sou um entusiasta da programação com foco em aprender e crescer nas áreas env
 ---
 
 ## 🎯 Meus objetivos
-
-
-- Aprimorar habilidades em programação orientada a objetos e estruturas de dados.  
+  
 - Desenvolver projetos práticos e contribuir para a comunidade open source.   
 - Tornar-me um profissional completo e preparado para o mercado de tecnologia.
 
