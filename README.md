@@ -8,7 +8,7 @@ Focado em evoluir no desenvolvimento back-end, com aprendizado contínuo e const
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,mysql,git,github,vscode," />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,mysql,git,github,vscode," />
   </a>
 </p>
 
