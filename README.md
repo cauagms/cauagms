@@ -27,4 +27,4 @@ Vamos codar juntos 🚀
 
 ---
 
-> “O aprendizado nunca termina — o código está sempre evoluindo.” 💻
+> “Constância...” 
