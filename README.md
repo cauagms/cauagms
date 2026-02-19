@@ -20,7 +20,7 @@ Construindo uma base sólida em fundamentos e boas práticas
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,mysql,git,github,vscode,java,spring" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,mysql,git,github,vscode" />
   </a>
 </p>
 
