@@ -1,30 +1,35 @@
-# Olá, eu sou o Cauã! 👋
+# 👋 Olá, eu sou o Cauã!
 
-Focado em evoluir no desenvolvimento back-end, com aprendizado contínuo e construção de uma base sólida.
+Estudante de Análise e Desenvolvimento de Sistemas  
+Focado em desenvolvimento Back-end  
+Construindo uma base sólida em fundamentos e boas práticas
 
 ---
 
-## 🛠 Tecnologias e Ferramentas que utilizo
+## 🔎 Atualmente focado em
+
+- Python para desenvolvimento Back-end  
+- Fundamentos de APIs REST  
+- Estruturação de aplicações com FastAPI  
+- Integração com banco de dados  
+- Versionamento com Git e GitHub  
+
+---
+
+## 🛠 Tecnologias e Ferramentas
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,py,mysql,git,github,idea,vscode," />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,mysql,git,github,vscode,java,spring" />
   </a>
 </p>
 
+---
+
+## 🎯 Objetivo
+
+Busco uma oportunidade de estágio na área de desenvolvimento Back-end, onde eu possa aplicar meus conhecimentos, aprender com desenvolvedores mais experientes e evoluir tecnicamente de forma consistente.
 
 ---
 
-## 🎯 Meus objetivos
-  
-- Evoluir de forma consistente por meio do aprendizado contínuo.   
-- Construir uma trajetória sólida e sustentável na área de tecnologia.
-
----
-
-Se quiser acompanhar meu progresso e projetos, fique à vontade para me seguir!  
-Vamos codar juntos 🚀
-
----
-
-> “Constância...” 
+> “Constância supera motivação.”
